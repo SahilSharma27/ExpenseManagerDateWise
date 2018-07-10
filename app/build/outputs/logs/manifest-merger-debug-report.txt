@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:2:1-61:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\798ffec40215982f60be8b4eac0e0473\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\66e8ffc2d0a9ba3df8f5c6cd9f4d0926\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\96903f46b62bbc9a4aeb1027597bbc92\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\40c65150b4b4987bc9ac95e830e7cb08\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\aceb7905ffb45d49749e9b49fbe4f0f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\bdec4f1c862ab0d6d8914b6208d78c74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\081742b2786a6b6ae7886bb41f12605d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\fbc3cb1112289f7983d11705a14bb3a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\0424485372241aed957e648c80f6f709\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\a3805b9341f9021233aceee2401689d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\4f906fdcca4067aee8403c29f7ee530c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\c68d4dd086f5ebaf5a12869cc4052896\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\ad1a09c1c35417a1ca61a5ae215faed3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\f601266b436075898349954c704c88dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\a37125ded33e2ae12a6b5072c873672f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\40d0cdc06e6cf0506349ab38a11ccb89\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\88f6a2a1d002dcaa3c455f3a6486b59f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\217a6b5f291ca52f1e256fcdea2016b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\8ced5da79bf821f7dda80f5e53e69543\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\a30b011544b51da2d57ab97fd0045b3d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\df1b1ce734c7dd6c22c9663256d65f0b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\76406211dc42fa5c727bb14aa4441460\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\31a36b7df3298c7d075e37fc45c2f84c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\af06d28f64c78a8cef418c20db7c9f7b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4f61c228ae6277472b75b9ff49d5d421\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\e70079e6b4ce0b55f83eb10782d174b3\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_SMS
+ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:6:22-67
+application
+ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:8:5-59:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\66e8ffc2d0a9ba3df8f5c6cd9f4d0926\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\66e8ffc2d0a9ba3df8f5c6cd9f4d0926\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\40d0cdc06e6cf0506349ab38a11ccb89\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\40d0cdc06e6cf0506349ab38a11ccb89\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\8ced5da79bf821f7dda80f5e53e69543\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\8ced5da79bf821f7dda80f5e53e69543\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\40d0cdc06e6cf0506349ab38a11ccb89\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:14:9-40
+activity#in.codingninjas.envision.expensemanager.MainActivity
+ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:19:27-74
+activity#in.codingninjas.envision.expensemanager.ShowDetailsActivity
+ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:22:9-57
+	android:name
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:22:19-54
+activity#in.codingninjas.envision.expensemanager.EditExpenseActivity
+ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:name
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:23:19-54
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
+ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:24:13-30:29
+action#android.intent.action.SEND
+ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:25:25-66
+data
+ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:27:17-55
+	android:mimeType
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:27:23-52
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:29:27-73
+activity#in.codingninjas.envision.expensemanager.SettingsActivity
+ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:32:9-54
+	android:name
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:32:19-51
+receiver#in.codingninjas.envision.expensemanager.Receivers.SMSReceiver
+ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:34:9-41:20
+	android:enabled
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:35:13-50
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:38:13-40:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:39:17-82
+	android:name
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:39:25-79
+receiver#in.codingninjas.envision.expensemanager.Receivers.AlarmReceiver
+ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:43:9-47:20
+	android:enabled
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:44:13-52
+receiver#in.codingninjas.envision.expensemanager.Receivers.BootCompletedReceiver
+ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:49:9-56:20
+	android:enabled
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:51:13-35
+	android:exported
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:50:13-60
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:53:13-55:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:54:17-79
+	android:name
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml:54:25-76
+uses-sdk
+INJECTED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\798ffec40215982f60be8b4eac0e0473\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\798ffec40215982f60be8b4eac0e0473\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\66e8ffc2d0a9ba3df8f5c6cd9f4d0926\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\66e8ffc2d0a9ba3df8f5c6cd9f4d0926\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\96903f46b62bbc9a4aeb1027597bbc92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\96903f46b62bbc9a4aeb1027597bbc92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\40c65150b4b4987bc9ac95e830e7cb08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\40c65150b4b4987bc9ac95e830e7cb08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\aceb7905ffb45d49749e9b49fbe4f0f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\aceb7905ffb45d49749e9b49fbe4f0f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\bdec4f1c862ab0d6d8914b6208d78c74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\bdec4f1c862ab0d6d8914b6208d78c74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\081742b2786a6b6ae7886bb41f12605d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\081742b2786a6b6ae7886bb41f12605d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\fbc3cb1112289f7983d11705a14bb3a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\fbc3cb1112289f7983d11705a14bb3a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\0424485372241aed957e648c80f6f709\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\0424485372241aed957e648c80f6f709\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\a3805b9341f9021233aceee2401689d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\a3805b9341f9021233aceee2401689d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\4f906fdcca4067aee8403c29f7ee530c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\4f906fdcca4067aee8403c29f7ee530c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\c68d4dd086f5ebaf5a12869cc4052896\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\c68d4dd086f5ebaf5a12869cc4052896\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\ad1a09c1c35417a1ca61a5ae215faed3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\ad1a09c1c35417a1ca61a5ae215faed3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\f601266b436075898349954c704c88dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\f601266b436075898349954c704c88dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\a37125ded33e2ae12a6b5072c873672f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\a37125ded33e2ae12a6b5072c873672f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\40d0cdc06e6cf0506349ab38a11ccb89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\40d0cdc06e6cf0506349ab38a11ccb89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\88f6a2a1d002dcaa3c455f3a6486b59f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\88f6a2a1d002dcaa3c455f3a6486b59f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\217a6b5f291ca52f1e256fcdea2016b0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\217a6b5f291ca52f1e256fcdea2016b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\8ced5da79bf821f7dda80f5e53e69543\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\8ced5da79bf821f7dda80f5e53e69543\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\a30b011544b51da2d57ab97fd0045b3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\a30b011544b51da2d57ab97fd0045b3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\df1b1ce734c7dd6c22c9663256d65f0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\df1b1ce734c7dd6c22c9663256d65f0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\76406211dc42fa5c727bb14aa4441460\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\76406211dc42fa5c727bb14aa4441460\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\31a36b7df3298c7d075e37fc45c2f84c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\31a36b7df3298c7d075e37fc45c2f84c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\af06d28f64c78a8cef418c20db7c9f7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\af06d28f64c78a8cef418c20db7c9f7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4f61c228ae6277472b75b9ff49d5d421\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4f61c228ae6277472b75b9ff49d5d421\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\e70079e6b4ce0b55f83eb10782d174b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\Sahil Sharma\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\e70079e6b4ce0b55f83eb10782d174b3\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sahil Sharma\AndroidStudioProjects\DateWise\app\src\main\AndroidManifest.xml
